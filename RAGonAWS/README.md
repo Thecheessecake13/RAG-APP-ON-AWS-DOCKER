@@ -27,4 +27,4 @@ How the Application Works
 | - Query and Answer      |
 +-------------------------+
 
-For Detailed Documentation of RAG app Refer to 'RAG-APP-0n-AWS-DOCs' File
+For Detailed Documentation of RAG app Refer to 'RAG-APP-0n-AWS-DOCs,pdf' file.
